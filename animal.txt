@@ -4,7 +4,8 @@ tiger
 bear
 cheetah
 jaguar
-
+hyna
+dogs
 
 
 
